@@ -37,6 +37,7 @@ Custom Themes for SourceGit
 | Diff.DeletedBG | Background color used in deleted lines in diff viewer |
 | Diff.AddedHighlight | Background color used for changed words in added lines in diff viewer |
 | Diff.DeletedHighlight | Background color used for changed words in deleted lines in diff viewer |
+| SystemAccentColor | Accent color for selected items |
 
 * Colors used in commit graph. 
 
