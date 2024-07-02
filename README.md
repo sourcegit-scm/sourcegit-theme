@@ -53,3 +53,7 @@ For example:
 [JetBrainsDark](./themes/JetBrainsDark.json) from [@MelonHell](https://gist.github.com/MelonHell)
 
 ![JetBrainsDark](screenshots/JetBrainsDark.png)
+
+[JetBrainsDark DiffHighContrast](./themes/JetBrainsDark_DiffHighContrast.json) based on `JetBrainsDark` with higher contrast in diff view.
+
+![JetBrainsDark DiffHighContras](screenshots/JetBrainsDark_DiffHighContrast.png)
