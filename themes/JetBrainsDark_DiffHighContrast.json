@@ -16,7 +16,7 @@
     "FlatButton.Background": "#2b2d30",
     "FlatButton.BackgroundHovered": "#393b40",
     "FG1": "#ced0d6",
-    "FG2": "#ced0d6",
+    "FG2": "#808080",
     "Diff.EmptyBG": "#101010",
     "Diff.AddedBG": "#1c322b",
     "Diff.DeletedBG": "#412323",
@@ -27,5 +27,17 @@
     "DecoratorBranch": "#3574f0",
     "DecoratorTag": "#57935d",
     "DecoratorFG": "#ffffff"
-  }
+  },
+  "Graph": [
+    "#FF15A0BF",
+    "#FF0669F7",
+    "#FF8E00C2",
+    "#FFC517B6",
+    "#FFD90171",
+    "#FFCD0101",
+    "#FFF25D2E",
+    "#FFF2CA33",
+    "#FF7BD938",
+    "#FF2ECE9D"
+  ]
 }
