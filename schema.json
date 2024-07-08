@@ -1,0 +1,142 @@
+{
+    "additionalProperties": false,
+    "definitions": {
+        "color": {
+            "type": "string",
+            "pattern": "^#[0-9a-fA-F]{6,8}$"
+        }
+    },
+    "properties": {
+        "BasicColors": {
+            "type": "object",
+            "properties": {
+                "Window": {
+                    "$ref": "#/definitions/color",
+                    "description": "Window background color"
+                },
+                "WindowBorder": {
+                    "$ref": "#/definitions/color",
+                    "description": "Window border color. Only used on Linux."
+                },
+                "TitleBar": {
+                    "$ref": "#/definitions/color",
+                    "description": "Title bar background color"
+                },
+                "ToolBar": {
+                    "$ref": "#/definitions/color",
+                    "description": "Tool bar background color"
+                },
+                "Popup": {
+                    "$ref": "#/definitions/color",
+                    "description": "Popup panel background color"
+                },
+                "Contents": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color used in inputs, data grids, file content viewer, change lists, text diff viewer, etc."
+                },
+                "Badge": {
+                    "$ref": "#/definitions/color",
+                    "description": "Badge background color"
+                },
+                "BadgeFG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Badge foreground color"
+                },
+                "Conflict": {
+                    "$ref": "#/definitions/color",
+                    "description": "Conflict panel background color"
+                },
+                "ConflictForeground": {
+                    "$ref": "#/definitions/color",
+                    "description": "Conflict panel foreground color"
+                },
+                "DecoratorIconBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color for commit ref icon"
+                },
+                "DecoratorIcon": {
+                    "$ref": "#/definitions/color",
+                    "description": "Foreground color for commit ref icon"
+                },
+                "DecoratorBranch": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color for commit branch ref name"
+                },
+                "DecoratorTag": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color for commit tag ref name"
+                },
+                "DecoratorFG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Foreground color for commit ref name"
+                },
+                "Border0": {
+                    "$ref": "#/definitions/color",
+                    "description": "Border color used in some controls, like Window, Tab, Toolbar, etc."
+                },
+                "Border1": {
+                    "$ref": "#/definitions/color",
+                    "description": "Border color used in inputs, like TextBox, ComboBox, etc."
+                },
+                "Border2": {
+                    "$ref": "#/definitions/color",
+                    "description": "Border color used in visual lines, like seperators, Rectange, etc."
+                },
+                "FlatButton.Background": {
+                    "$ref": "#/definitions/color",
+                    "description": "Flat button background color, like `Cancel`, `Commit & Push` button"
+                },
+                "FlatButton.BackgroundHovered": {
+                    "$ref": "#/definitions/color",
+                    "description": "Flat button background color when hovered, like `Cancel` button"
+                },
+                "FG1": {
+                    "$ref": "#/definitions/color",
+                    "description": "Primary foreground color for all text elements"
+                },
+                "FG2": {
+                    "$ref": "#/definitions/color",
+                    "description": "Secondary foreground color for all text elements"
+                },
+                "Diff.EmptyBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color used in empty lines in diff viewer"
+                },
+                "Diff.AddedBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color used in added lines in diff viewer"
+                },
+                "Diff.DeletedBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color used in deleted lines in diff viewer"
+                },
+                "Diff.AddedHighlight": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color used for changed words in added lines in diff viewer"
+                },
+                "Diff.DeletedHighlight": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color used for changed words in deleted lines in diff viewer"
+                },
+                "SystemAccentColor": {
+                    "$ref": "#/definitions/color",
+                    "description": "Accent color for selected items"
+                }
+            }
+        },
+        "GraphPenThickness": {
+            "type": "number",
+            "minimum": 1,
+            "maximum": 4,
+            "description": "Thickness of pens to draw commit graph"
+        },
+        "GraphColors": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+                "$ref": "#/definitions/color"
+            },
+            "description": "Array of colors used to draw the commit graph"
+        }
+    }
+}
