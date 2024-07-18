@@ -130,6 +130,12 @@
             "maximum": 4,
             "description": "Thickness of pens to draw commit graph"
         },
+        "OpacityForNotMergedCommits": {
+            "type": "number",
+            "minimum": 0.1,
+            "maximum": 1,
+            "description": "Opacity for commits that not belongs (haven't been merged) to current branch in histories view"
+        },
         "GraphColors": {
             "type": "array",
             "minItems": 1,
