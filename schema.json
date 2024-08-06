@@ -121,6 +121,10 @@
                 "SystemAccentColor": {
                     "$ref": "#/definitions/color",
                     "description": "Accent color for selected items"
+                },
+                "Link": {
+                    "$ref": "#/definitions/color",
+                    "description": "Color for issue links"
                 }
             }
         },
