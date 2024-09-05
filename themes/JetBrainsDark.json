@@ -26,6 +26,7 @@
     "DecoratorIcon": "#ffffff",
     "DecoratorBranch": "#3574f0",
     "DecoratorTag": "#57935d",
-    "DecoratorFG": "#ffffff"
+    "DecoratorFG": "#000000",
+    "DecoratorHead": "#f4f1de"
   }
 }
