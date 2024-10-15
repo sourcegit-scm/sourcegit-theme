@@ -22,12 +22,7 @@
     "Diff.DeletedBG": "#412323",
     "Diff.AddedHighlight": "#265444",
     "Diff.DeletedHighlight": "#883838",
-    "DecoratorIconBG": "#404244",
-    "DecoratorIcon": "#ffffff",
-    "DecoratorBranch": "#3574f0",
-    "DecoratorTag": "#57935d",
-    "DecoratorFG": "#000000",
-    "DecoratorHead": "#f4f1de"
+    "DecoratorTag": "#57935d"
   },
   "GraphPenThickness": 2,
   "GraphColors": [

@@ -22,11 +22,6 @@
     "Diff.DeletedBG": "#2e2626",
     "Diff.AddedHighlight": "#294436",
     "Diff.DeletedHighlight": "#45302b",
-    "DecoratorIconBG": "#404244",
-    "DecoratorIcon": "#ffffff",
-    "DecoratorBranch": "#3574f0",
-    "DecoratorTag": "#57935d",
-    "DecoratorFG": "#000000",
-    "DecoratorHead": "#f4f1de"
+    "DecoratorTag": "#57935d"
   }
 }

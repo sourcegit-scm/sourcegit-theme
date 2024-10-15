@@ -50,29 +50,9 @@
                     "$ref": "#/definitions/color",
                     "description": "Conflict panel foreground color"
                 },
-                "DecoratorIconBG": {
-                    "$ref": "#/definitions/color",
-                    "description": "Background color for commit ref icon"
-                },
-                "DecoratorIcon": {
-                    "$ref": "#/definitions/color",
-                    "description": "Foreground color for commit ref icon"
-                },
-                "DecoratorBranch": {
-                    "$ref": "#/definitions/color",
-                    "description": "Background color for commit branch ref name"
-                },
-                "DecoratorHead": {
-                    "$ref": "#/definitions/color",
-                    "description": "Background color for current branch ref name"
-                },
                 "DecoratorTag": {
                     "$ref": "#/definitions/color",
                     "description": "Background color for commit tag ref name"
-                },
-                "DecoratorFG": {
-                    "$ref": "#/definitions/color",
-                    "description": "Foreground color for commit ref name"
                 },
                 "Border0": {
                     "$ref": "#/definitions/color",
