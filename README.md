@@ -18,4 +18,8 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 [Nord](./themes/Nord.json) from [@JeanFranz73](https://gist.github.com/JeanFranz73) based on [Nord palette](https://github.com/nordtheme/nord).
 
-![JetBrainsDark DiffHighContras](screenshots/Nord.png)
+![Nord](screenshots/Nord.png)
+
+[Cyberpunk 2077](./themes/Cyberpunk2077.json) from [@berkanuslu](https://github.com/berkanuslu) based on [Cyberpunk 2077 UI Presentation](https://www.artstation.com/artwork/18mLB8).
+
+![Cyberpunk2077](screenshots/Cyberpunk2077.png)
