@@ -8,6 +8,10 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 ## Screenshots
 
+[ForkDark](./themes/ForkDark.json) from [@carun](https://github.com/carun)
+
+![ForkDark](screenshots/ForkDark.png)
+
 [JetBrainsDark](./themes/JetBrainsDark.json) from [@MelonHell](https://gist.github.com/MelonHell)
 
 ![JetBrainsDark](screenshots/JetBrainsDark.png)
