@@ -23,3 +23,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Cyberpunk 2077](./themes/Cyberpunk2077.json) from [@berkanuslu](https://github.com/berkanuslu) based on [Cyberpunk 2077 UI Presentation](https://www.artstation.com/artwork/18mLB8).
 
 ![Cyberpunk2077](screenshots/Cyberpunk2077.png)
+
+[Panda theme](./themes/Panda.json) from [@WTFive](https://github.com/wtfive) based on [VSCode Panda theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
+
+![Panda theme](screenshots/Panda.png)
