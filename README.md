@@ -31,3 +31,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Panda theme](./themes/Panda.json) from [@WTFive](https://github.com/wtfive) based on [VSCode Panda theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
 ![Panda theme](screenshots/Panda.png)
+
+[SynthWave '84 theme](./themes/Synthwave84.json) based on [VSCode SynthWave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode).
+
+![SynthWave '84 theme](screenshots/Synthwave84.png)
