@@ -22,7 +22,6 @@
         "Diff.DeletedBG": "#660000",
         "Diff.AddedHighlight": "#22A822",
         "Diff.DeletedHighlight": "#CC0000",
-        "DecoratorTag": "#D4D4D4",
         "SystemAccentColor": "#007ACC",
         "Link": "#3794FF"
     },

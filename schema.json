@@ -50,10 +50,6 @@
                     "$ref": "#/definitions/color",
                     "description": "Conflict panel foreground color"
                 },
-                "DecoratorTag": {
-                    "$ref": "#/definitions/color",
-                    "description": "Background color for commit tag ref name"
-                },
                 "Border0": {
                     "$ref": "#/definitions/color",
                     "description": "Border color used in some controls, like Window, Tab, Toolbar, etc."

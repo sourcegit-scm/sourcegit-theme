@@ -21,7 +21,6 @@
     "Diff.AddedBG": "#222e2a",
     "Diff.DeletedBG": "#2e2626",
     "Diff.AddedHighlight": "#294436",
-    "Diff.DeletedHighlight": "#45302b",
-    "DecoratorTag": "#57935d"
+    "Diff.DeletedHighlight": "#45302b"
   }
 }

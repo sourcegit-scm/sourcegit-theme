@@ -21,8 +21,7 @@
     "Diff.AddedBG": "#1c322b",
     "Diff.DeletedBG": "#412323",
     "Diff.AddedHighlight": "#265444",
-    "Diff.DeletedHighlight": "#883838",
-    "DecoratorTag": "#57935d"
+    "Diff.DeletedHighlight": "#883838"
   },
   "GraphPenThickness": 2,
   "GraphColors": [
