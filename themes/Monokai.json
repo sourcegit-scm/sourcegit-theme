@@ -1,0 +1,43 @@
+{
+  "BasicColors": {
+    "Window": "#272822",
+    "WindowBorder": "#131313",
+    "TitleBar": "#272822",
+    "ToolBar": "#43443b",
+    "Popup": "#131313",
+    "Contents": "#43443b",
+    "Badge": "#e6db74",
+    "BadgeFG": "#f92468",
+    "Conflict": "#f92672",
+    "ConflictForeground": "#a3d5d6",
+    "Border0": "#43443b",
+    "Border1": "#abb1ba",
+    "Border2": "#43443b",
+    "FlatButton.Background": "#272822",
+    "FlatButton.BackgroundHovered": "#fd971f",
+    "FG1": "#e6db74",
+    "FG2": "#fd971f",
+    "Diff.EmptyBG": "#74705d",
+    "Diff.AddedBG": "#486212",
+    "Diff.DeletedBG": "#781132",
+    "Diff.AddedHighlight": "#729b1d",
+    "Diff.DeletedHighlight": "#b61a53",
+    "SystemAccentColor": "#74705d",
+    "Link": "#fd971f"
+  },
+  "GraphPenThickness": 2,
+  "OpacityForNotMergedCommits": 0.5,
+  "GraphColors": [
+    "#f92672", 
+    "#00effe", 
+    "#ae81ff", 
+    "#fd971f", 
+    "#a6e22e", 
+    "#e6db74", 
+    "#D35400",
+    "#8C6239",
+    "#3B4D61",
+    "#08a6cb",
+    "#cabf03"
+  ]
+}

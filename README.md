@@ -35,3 +35,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [SynthWave '84 theme](./themes/Synthwave84.json) based on [VSCode SynthWave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode).
 
 ![SynthWave '84 theme](screenshots/Synthwave84.png)
+
+[Monokai theme](./themes/Monokai.json) from [@RyanKneeya](https://github.com/RyanKneeya) based on [Sublime Text Monokai](https://github.com/gerardroche/sublime-monokai-free).
+
+![Monokai theme](screenshots/Monokai.png)
