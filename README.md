@@ -39,3 +39,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Monokai theme](./themes/Monokai.json) from [@RyanKneeya](https://github.com/RyanKneeya) based on [Sublime Text Monokai](https://github.com/gerardroche/sublime-monokai-free).
 
 ![Monokai theme](screenshots/Monokai.png)
+
+[Squid](./themes/Squid.json) from [@ilianoKokoro](https://github.com/ilianoKokoro) based on the `GitKraken` color scheme.
+
+![Squid](screenshots/Squid.png)
