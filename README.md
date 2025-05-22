@@ -43,3 +43,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Squid](./themes/Squid.json) from [@ilianoKokoro](https://github.com/ilianoKokoro) based on the `GitKraken` color scheme.
 
 ![Squid](screenshots/Squid.png)
+
+[AdwaitaLight](./themes/AdwaitaLight.json) from [@W-Floyd](https://github.com/W-Floyd) based on the `Adwaita` color scheme.
+
+![AdwaitaLight](screenshots/AdwaitaLight.png)
