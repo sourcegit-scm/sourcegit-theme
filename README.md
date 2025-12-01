@@ -47,3 +47,19 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [AdwaitaLight](./themes/AdwaitaLight.json) from [@W-Floyd](https://github.com/W-Floyd) based on the `Adwaita` color scheme.
 
 ![AdwaitaLight](screenshots/AdwaitaLight.png)
+
+[Catpuccin Mocha](./themes/Catpuccin_Mocha.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Mocha palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Mocha](screenshots/CatpuccinMocha.png)
+
+[Catpuccin Latte](./themes/Catpuccin_Latte.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Latte palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Latte](screenshots/CatpuccinLatte.png)
+
+[Catpuccin Frappe](./themes/Catpuccin_Frappe.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Frappe palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Frappe](screenshots/CatpuccinFrappe.png)
+
+[Catpuccin Macchiato](./themes/Catpuccin_Macchiato.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Macchiato palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Macchiato](screenshots/CatpuccinMacchiato.png)
