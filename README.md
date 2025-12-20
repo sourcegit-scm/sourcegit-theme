@@ -47,3 +47,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [AdwaitaLight](./themes/AdwaitaLight.json) from [@W-Floyd](https://github.com/W-Floyd) based on the `Adwaita` color scheme.
 
 ![AdwaitaLight](screenshots/AdwaitaLight.png)
+
+[Dracula](./themes/Dracula.json) based on [Dracula Theme](https://draculatheme.com/).
+
+![Dracula](screenshots/Dracula.png)
