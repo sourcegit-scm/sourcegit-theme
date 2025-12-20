@@ -51,3 +51,18 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Dracula](./themes/Dracula.json) based on [Dracula Theme](https://draculatheme.com/).
 
 ![Dracula](screenshots/Dracula.png)
+[Catpuccin Mocha](./themes/Catpuccin_Mocha.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Mocha palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Mocha](screenshots/CatpuccinMocha.png)
+
+[Catpuccin Latte](./themes/Catpuccin_Latte.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Latte palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Latte](screenshots/CatpuccinLatte.png)
+
+[Catpuccin Frappe](./themes/Catpuccin_Frappe.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Frappe palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Frappe](screenshots/CatpuccinFrappe.png)
+
+[Catpuccin Macchiato](./themes/Catpuccin_Macchiato.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Macchiato palette](https://github.com/catppuccin/catppuccin).
+
+![Catpuccin Macchiato](screenshots/CatpuccinMacchiato.png)
