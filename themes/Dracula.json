@@ -1,33 +1,33 @@
 {
-    "BasicColors": {
-      "Window": "#282a36",
-      "WindowBorder": "#282a36",
-      "TitleBar": "#44475a",
-      "ToolBar": "#282a36",
-      "Popup": "#282a36",
-      "Contents": "#282a36",
-      "Badge": "#6272a4",
-      "BadgeFG": "#f8f8f2",
-      "Border0": "#44475a",
-      "Border1": "#44475a",
-      "Border2": "#44475a",
-      "FlatButton.Background": "#282a36",
-      "FlatButton.BackgroundHovered": "#44475a",
-      "FG1": "#f8f8f2",
-      "FG2": "#f8f8f2",
-      "Diff.EmptyBG": "#44475a",
-      "Diff.AddedBG": "#50fa7b",
-      "Diff.DeletedBG": "#ff5555",
-      "Diff.AddedHighlight": "#50fa7b",
-      "Diff.DeletedHighlight": "#ff5555",
-      "SystemAccentColor": "#bd93f9"
-    },
-    "OpacityForNotMergedCommits": 0.4,
-    "GraphColors": [
-      "#ff5555",
-      "#ffb86c",
-      "#f1fa8c",
-      "#50fa7b",
-      "#bd93f9"
-    ]
-  }
+  "BasicColors": {
+    "Window": "#282a36",
+    "WindowBorder": "#282a36",
+    "TitleBar": "#44475a",
+    "ToolBar": "#282a36",
+    "Popup": "#282a36",
+    "Contents": "#282a36",
+    "Badge": "#6272a4",
+    "BadgeFG": "#f8f8f2",
+    "Border0": "#44475a",
+    "Border1": "#44475a",
+    "Border2": "#44475a",
+    "FlatButton.Background": "#282a36",
+    "FlatButton.BackgroundHovered": "#44475a",
+    "FG1": "#f8f8f2",
+    "FG2": "#f8f8f2",
+    "Diff.EmptyBG": "#44475a",
+    "Diff.AddedBG": "#bd93f9",
+    "Diff.DeletedBG": "#ff5555",
+    "Diff.AddedHighlight": "#bd93f9",
+    "Diff.DeletedHighlight": "#ff5555",
+    "SystemAccentColor": "#bd93f9"
+  },
+  "OpacityForNotMergedCommits": 0.4,
+  "GraphColors": [
+    "#ff5555",
+    "#ffb86c",
+    "#f1fa8c",
+    "#50fa7b",
+    "#bd93f9"
+  ]
+}

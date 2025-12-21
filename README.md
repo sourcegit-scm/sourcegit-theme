@@ -48,6 +48,9 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 ![AdwaitaLight](screenshots/AdwaitaLight.png)
 
+[Dracula](./themes/Dracula.json) based on [Dracula Theme](https://draculatheme.com/).
+
+![Dracula](screenshots/Dracula.png)
 [Catpuccin Mocha](./themes/Catpuccin_Mocha.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Mocha palette](https://github.com/catppuccin/catppuccin).
 
 ![Catpuccin Mocha](screenshots/CatpuccinMocha.png)
