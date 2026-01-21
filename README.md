@@ -66,3 +66,7 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 [Catpuccin Macchiato](./themes/Catpuccin_Macchiato.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Macchiato palette](https://github.com/catppuccin/catppuccin).
 
 ![Catpuccin Macchiato](screenshots/CatpuccinMacchiato.png)
+
+[One Dark](https://github.com/one-dark)
+
+![OneDark](screenshots/OneDark.png)
