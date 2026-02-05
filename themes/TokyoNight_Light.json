@@ -10,7 +10,7 @@
     "Badge": "#f52a65",
     "BadgeFG": "#d5d6db",
     "Conflict": "#f52a65",
-    "ConflictForeground": "#d5d6db",
+    "Conflict.Foreground": "#d5d6db",
 
     "Border0": "#b4b5b9",
     "Border1": "#a8aecb",

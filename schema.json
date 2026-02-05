@@ -20,7 +20,7 @@
                 },
                 "TitleBar": {
                     "$ref": "#/definitions/color",
-                    "description": "Title bar background color"
+                    "description": "Title bar background color."
                 },
                 "ToolBar": {
                     "$ref": "#/definitions/color",
@@ -46,9 +46,17 @@
                     "$ref": "#/definitions/color",
                     "description": "Conflict panel background color"
                 },
-                "ConflictForeground": {
+                "Conflict.Foreground": {
                     "$ref": "#/definitions/color",
                     "description": "Conflict panel foreground color"
+                },
+                "Conflict.MineBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color of 'Mine' section in merge conflict editor"
+                },
+                "Conflict.TheirsBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color of 'Theirs' section in merge conflict editor"
                 },
                 "Border0": {
                     "$ref": "#/definitions/color",
@@ -69,6 +77,10 @@
                 "FlatButton.BackgroundHovered": {
                     "$ref": "#/definitions/color",
                     "description": "Flat button background color when hovered, like `Cancel` button"
+                },
+                "FlatButton.FloatingBorder": {
+                    "$ref": "#/definitions/color",
+                    "description": "Flat button (floating) border color. Used by hunk action buttons such as `Stage`/`Discard`/`Unstage`"
                 },
                 "FG1": {
                     "$ref": "#/definitions/color",
@@ -105,6 +117,18 @@
                 "Link": {
                     "$ref": "#/definitions/color",
                     "description": "Color for issue links"
+                },
+                "InlineCode": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color for inline code in commit messages"
+                },
+                "InlineCodeFG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Foreground color for inline code in commit messages"
+                },
+                "DataGridHeaderBG": {
+                    "$ref": "#/definitions/color",
+                    "description": "Background color for data grid headers"
                 }
             }
         },
