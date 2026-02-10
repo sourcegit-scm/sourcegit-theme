@@ -110,6 +110,10 @@
                     "$ref": "#/definitions/color",
                     "description": "Background color used for changed words in deleted lines in diff viewer"
                 },
+                "Diff.BlockBorderHighlight": {
+                    "$ref": "#/definitions/color",
+                    "description": "Border color used for highlighting current changed blocks in diff viewer"
+                },
                 "SystemAccentColor": {
                     "$ref": "#/definitions/color",
                     "description": "Accent color for selected items"
