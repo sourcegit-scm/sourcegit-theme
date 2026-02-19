@@ -71,13 +71,13 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 ![OneDark](screenshots/OneDark.png)
 
-[TokyoNight](https://github.com/one-dark) from [tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme)
+[TokyoNight](./themes/TokyoNight.json) from [tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme)
 
-TokyoNight
+[TokyoNight](./themes/TokyoNight.json)
 ![TokyoNight](screenshots/TokyoNight.png)
 
-TokyoNight Storm
+[TokyoNight Storm](./themes/TokyoNight_Storm.json)
 ![TokyoNight Storm](screenshots/TokyoNight_storm.png)
 
-TokyoNight Light
+[TokyoNight Light](./themes/TokyoNight_Light.json)
 ![TokyoNight_Light](screenshots/TokyoNight_light.png)
