@@ -148,6 +148,10 @@
             "maximum": 1,
             "description": "Opacity for commits that not belongs (haven't been merged) to current branch in histories view"
         },
+        "UseMicaOnWindows11": {
+            "type": "boolean",
+            "description": "Whether to use Mica material on Windows 11"
+        },
         "GraphColors": {
             "type": "array",
             "minItems": 1,
