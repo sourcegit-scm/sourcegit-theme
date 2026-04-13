@@ -85,3 +85,6 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 [TokyoNight Light](./themes/TokyoNight_Light.json)
 ![TokyoNight_Light](screenshots/TokyoNight_light.png)
+
+[Ayu Dark](./themes/AyuDark.json) from [@Hectoralvf](https://codeberg.org/hectoralvf) based on [VS Code Ayu](https://github.com/ayu-theme/vscode-ayu).
+![Ayu Dark](screenshots/AyuDark.png)
