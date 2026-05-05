@@ -88,3 +88,6 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 [Ayu Dark](./themes/AyuDark.json) from [@Hectoralvf](https://codeberg.org/hectoralvf) based on [VS Code Ayu](https://github.com/ayu-theme/vscode-ayu).
 ![Ayu Dark](screenshots/AyuDark.png)
+
+[Trae Theme](./themes/TraeTheme.json) from [@ryan-sdjr](https://github.com/ryan-sdjr) based on [Trae IDE](https://www.trae.ai/).
+![Trae Theme](screenshots/TraeTheme.png)
