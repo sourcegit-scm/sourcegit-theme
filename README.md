@@ -28,6 +28,14 @@ Open `Preference` -> `Appearance`, choose the json file you just created in `The
 
 ![Nord Light](screenshots/Nord_Light.png)
 
+[Solarized Dark](./themes/Solarized_Dark.json) based on [Solarized](https://ethanschoonover.com/solarized/).
+
+![Solarized Dark](screenshots/Solarized_dark.png)
+
+[Solarized Light](./themes/Solarized_Light.json) based on [Solarized](https://ethanschoonover.com/solarized/).
+
+![Solarized Light](screenshots/Solarized_light.png)
+
 [Cyberpunk 2077](./themes/Cyberpunk2077.json) from [@berkanuslu](https://github.com/berkanuslu) based on [Cyberpunk 2077 UI Presentation](https://www.artstation.com/artwork/18mLB8).
 
 ![Cyberpunk2077](screenshots/Cyberpunk2077.png)
