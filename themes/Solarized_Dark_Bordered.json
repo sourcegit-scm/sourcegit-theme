@@ -6,7 +6,7 @@
     "ToolBar": "#002b36",
     "Popup": "#073642",
     "Contents": "#073642",
-    "HistoryBG": "#073642",
+    "HistoryBG": "#01303c",
     "Badge": "#268bd2",
     "BadgeFG": "#fdf6e3",
     "Conflict": "#5c3928",
@@ -16,6 +16,7 @@
     "Border2": "#204f5f",
     "FlatButton.Background": "#073642",
     "FlatButton.BackgroundHovered": "#0b3d49",
+    "FlatButton.FloatingBorder": "#25596a",
     "FG1": "#93a1a1",
     "FG2": "#839496",
     "Diff.EmptyBG": "#002b36",
@@ -24,7 +25,9 @@
     "Diff.AddedHighlight": "#235444",
     "Diff.DeletedHighlight": "#653636",
     "SystemAccentColor": "#268bd2",
-    "Link": "#268bd2"
+    "Link": "#268bd2",
+    "InlineCode": "#30ffffff",
+    "InlineCodeFG": "#d7ba7d"
   },
   "GraphPenThickness": 2,
   "OpacityForNotMergedCommits": 0.4,
