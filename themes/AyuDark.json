@@ -20,7 +20,8 @@
     "Diff.DeletedBG": "#f279831f",
     "Diff.AddedHighlight": "#87d96c",
     "Diff.DeletedHighlight": "#f27983",
-    "SystemAccentColor": "#e6b450"
+    "SystemAccentColor": "#e6b450",
+    "HistoryBG": "#0d1017"
   },
   "OpacityForNotMergedCommits": 0.4,
   "GraphColors": [

@@ -130,9 +130,9 @@
                     "$ref": "#/definitions/color",
                     "description": "Foreground color for inline code in commit messages"
                 },
-                "DataGridHeaderBG": {
+                "HistoryBG": {
                     "$ref": "#/definitions/color",
-                    "description": "Background color for data grid headers"
+                    "description": "Background color for history view (not including data grid background)"
                 }
             }
         },

@@ -6,6 +6,7 @@
     "ToolBar": "#43443b",
     "Popup": "#131313",
     "Contents": "#43443b",
+    "HistoryBG": "#272822",
     "Badge": "#e6db74",
     "BadgeFG": "#f92468",
     "Conflict": "#f92672",
