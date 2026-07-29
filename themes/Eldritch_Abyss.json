@@ -4,11 +4,11 @@
     "WindowBorder": "#171928",
     "TitleBar": "#252738",
     "ToolBar": "#171928",
-    "Popup": "#474852",
+    "Popup": "#171928",
     "PopupBorder": "#252738",
     "Contents": "#171928",
     "HistoryBG": "#171928",
-    "Badge": "#cc5860",
+    "Badge": "#0396b3",
     "BadgeFG": "#d8e6e6",
     "Conflict": "#cc5860",
     "Conflict.Foreground": "#d8e6e6",
@@ -36,13 +36,11 @@
   "GraphPenThickness": 2,
   "OpacityForNotMergedCommits": 0.5,
   "GraphColors": [
-    "#cc5860",
-    "#d4a666",
-    "#ccd663",
     "#2dcc82",
     "#0396b3",
-    "#d154a1",
     "#8b75d9",
-    "#506299"
+    "#cc5860",
+    "#d4a666",
+    "#ccd663"
   ]
 }
