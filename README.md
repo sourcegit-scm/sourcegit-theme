@@ -1,122 +1,116 @@
-# sourcegit-theme
-
-Custom Themes for SourceGit
-
-## How to use custom theme overrides.
-
 Open `Preference` -> `Appearance`, choose the json file you just created in `Theme Overrides`.
 
 ## Screenshots
 
-[ForkDark](./themes/ForkDark.json) from [@carun](https://github.com/carun)
+[ForkDark](./themes/ForkDark/theme.json) from [@carun](https://github.com/carun)
 
-![ForkDark](screenshots/ForkDark.png)
+![ForkDark](themes/ForkDark/screenshots/1.png)
 
-[JetBrainsDark](./themes/JetBrainsDark.json) from [@MelonHell](https://gist.github.com/MelonHell)
+[JetBrainsDark](./themes/JetBrainsDark/theme.json) from [@MelonHell](https://gist.github.com/MelonHell)
 
-![JetBrainsDark](screenshots/JetBrainsDark.png)
+![JetBrainsDark](themes/JetBrainsDark/screenshots/1.png)
 
-[JetBrainsDark DiffHighContrast](./themes/JetBrainsDark_DiffHighContrast.json) based on `JetBrainsDark` with higher contrast in diff view.
+[JetBrainsDark DiffHighContrast](./themes/JetBrainsDark_DiffHighContrast/theme.json) based on `JetBrainsDark` with higher contrast in diff view.
 
-![JetBrainsDark DiffHighContras](screenshots/JetBrainsDark_DiffHighContrast.png)
+![JetBrainsDark DiffHighContras](themes/JetBrainsDark_DiffHighContrast/screenshots/1.png)
 
-[Nord](./themes/Nord.json) from [@JeanFranz73](https://gist.github.com/JeanFranz73) based on [Nord palette](https://github.com/nordtheme/nord).
+[Nord](./themes/Nord/theme.json) from [@JeanFranz73](https://gist.github.com/JeanFranz73) based on [Nord palette](https://github.com/nordtheme/nord).
 
-![Nord](screenshots/Nord.png)
+![Nord](themes/Nord/screenshots/1.png)
 
-[Nord Light](./themes/Nord_Light.json) from [@AndrewDilman](https://github.com/AndrewDilman) inspierd by [Nord palette](https://github.com/nordtheme/nord) and [Catpuccin Latte palette](https://github.com/catppuccin/catppuccin).
+[Nord Light](./themes/Nord_Light/theme.json) from [@AndrewDilman](https://github.com/AndrewDilman) inspierd by [Nord palette](https://github.com/nordtheme/nord) and [Catpuccin Latte palette](https://github.com/catppuccin/catppuccin).
 
-![Nord Light](screenshots/Nord_Light.png)
+![Nord Light](themes/Nord_Light/screenshots/1.png)
 
-[Solarized Dark](./themes/Solarized_Dark.json) based on [Solarized](https://ethanschoonover.com/solarized/).
+[Solarized Dark](./themes/Solarized_Dark/theme.json) based on [Solarized](https://ethanschoonover.com/solarized/).
 
-![Solarized Dark](screenshots/Solarized_dark.png)
+![Solarized Dark](themes/Solarized_Dark/screenshots/1.png)
 
-[Solarized Light](./themes/Solarized_Light.json) based on [Solarized](https://ethanschoonover.com/solarized/).
+[Solarized Light](./themes/Solarized_Light/theme.json) based on [Solarized](https://ethanschoonover.com/solarized/).
 
-![Solarized Light](screenshots/Solarized_light.png)
+![Solarized Light](themes/Solarized_Light/screenshots/1.png)
 
-[Solarized Dark Bordered](./themes/Solarized_Dark_Bordered.json) inspierd by `Solarized Dark`
+[Solarized Dark Bordered](./themes/Solarized_Dark_Bordered/theme.json) inspierd by `Solarized Dark`
 
-![Solarized Dark Bordered](screenshots/Solarized_Dark_Bordered.png)
+![Solarized Dark Bordered](themes/Solarized_Dark_Bordered/screenshots/1.png)
 
-[Solarized Light Bordered](./themes/Solarized_Light_Bordered.json) inspierd by `Solarized Light`
+[Solarized Light Bordered](./themes/Solarized_Light_Bordered/theme.json) inspierd by `Solarized Light`
 
-![Solarized Light Bordered](screenshots/Solarized_Light_Bordered.png)
+![Solarized Light Bordered](themes/Solarized_Light_Bordered/screenshots/1.png)
 
-[Cyberpunk 2077](./themes/Cyberpunk2077.json) from [@berkanuslu](https://github.com/berkanuslu) based on [Cyberpunk 2077 UI Presentation](https://www.artstation.com/artwork/18mLB8).
+[Cyberpunk 2077](./themes/Cyberpunk2077/theme.json) from [@berkanuslu](https://github.com/berkanuslu) based on [Cyberpunk 2077 UI Presentation](https://www.artstation.com/artwork/18mLB8).
 
-![Cyberpunk2077](screenshots/Cyberpunk2077.png)
+![Cyberpunk2077](themes/Cyberpunk2077/screenshots/1.png)
 
-[Panda theme](./themes/Panda.json) from [@WTFive](https://github.com/wtfive) based on [VSCode Panda theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
+[Panda theme](./themes/Panda/theme.json) from [@WTFive](https://github.com/wtfive) based on [VSCode Panda theme](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda).
 
-![Panda theme](screenshots/Panda.png)
+![Panda theme](themes/Panda/screenshots/1.png)
 
-[SynthWave '84 theme](./themes/Synthwave84.json) based on [VSCode SynthWave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode).
+[SynthWave '84 theme](./themes/Synthwave84/theme.json) based on [VSCode SynthWave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode).
 
-![SynthWave '84 theme](screenshots/Synthwave84.png)
+![SynthWave '84 theme](themes/Synthwave84/screenshots/1.png)
 
-[Monokai theme](./themes/Monokai.json) from [@RyanKneeya](https://github.com/RyanKneeya) based on [Sublime Text Monokai](https://github.com/gerardroche/sublime-monokai-free).
+[Monokai theme](./themes/Monokai/theme.json) from [@RyanKneeya](https://github.com/RyanKneeya) based on [Sublime Text Monokai](https://github.com/gerardroche/sublime-monokai-free).
 
-![Monokai theme](screenshots/Monokai.png)
+![Monokai theme](themes/Monokai/screenshots/1.png)
 
-[Squid](./themes/Squid.json) from [@ilianoKokoro](https://github.com/ilianoKokoro) based on the `GitKraken` color scheme.
+[Squid](./themes/Squid/theme.json) from [@ilianoKokoro](https://github.com/ilianoKokoro) based on the `GitKraken` color scheme.
 
-![Squid](screenshots/Squid.png)
+![Squid](themes/Squid/screenshots/1.png)
 
-[AdwaitaLight](./themes/AdwaitaLight.json) from [@W-Floyd](https://github.com/W-Floyd) based on the `Adwaita` color scheme.
+[AdwaitaLight](./themes/AdwaitaLight/theme.json) from [@W-Floyd](https://github.com/W-Floyd) based on the `Adwaita` color scheme.
 
-![AdwaitaLight](screenshots/AdwaitaLight.png)
+![AdwaitaLight](themes/AdwaitaLight/screenshots/1.png)
 
-[Dracula](./themes/Dracula.json) based on [Dracula Theme](https://draculatheme.com/).
+[Dracula](./themes/Dracula/theme.json) based on [Dracula Theme](https://draculatheme.com/).
 
-![Dracula](screenshots/Dracula.png)
+![Dracula](themes/Dracula/screenshots/1.png)
 
-[Eldritch Abyss](./themes/Eldritch_Abyss.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Abyss palette](https://github.com/eldritch-theme/eldritch).
+[Eldritch Abyss](./themes/Eldritch_Abyss/theme.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Abyss palette](https://github.com/eldritch-theme/eldritch).
 
-![Eldritch Abyss](screenshots/Eldritch_Abyss.webp)
+![Eldritch Abyss](themes/Eldritch_Abyss/screenshots/1.webp)
 
-[Eldritch Cthulhu](./themes/Eldritch_Cthulhu.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Cthulhu palette](https://github.com/eldritch-theme/eldritch).
+[Eldritch Cthulhu](./themes/Eldritch_Cthulhu/theme.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Cthulhu palette](https://github.com/eldritch-theme/eldritch).
 
-![Eldritch Cthulhu](screenshots/Eldritch_Cthulhu.webp)
+![Eldritch Cthulhu](themes/Eldritch_Cthulhu/screenshots/1.webp)
 
-[Eldritch Dusk](./themes/Eldritch_Dusk.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Dusk palette](https://github.com/eldritch-theme/eldritch).
+[Eldritch Dusk](./themes/Eldritch_Dusk/theme.json) from [@eldritch-theme](https://github.com/eldritch-theme) based on the [Eldritch Dusk palette](https://github.com/eldritch-theme/eldritch).
 
-![Eldritch Dusk](screenshots/Eldritch_Dusk.webp)
+![Eldritch Dusk](themes/Eldritch_Dusk/screenshots/1.webp)
 
-[Catpuccin Mocha](./themes/Catpuccin_Mocha.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Mocha palette](https://github.com/catppuccin/catppuccin).
+[Catpuccin Mocha](./themes/Catpuccin_Mocha/theme.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Mocha palette](https://github.com/catppuccin/catppuccin).
 
-![Catpuccin Mocha](screenshots/CatpuccinMocha.png)
+![Catpuccin Mocha](themes/Catpuccin_Mocha/screenshots/1.png)
 
-[Catpuccin Latte](./themes/Catpuccin_Latte.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Latte palette](https://github.com/catppuccin/catppuccin).
+[Catpuccin Latte](./themes/Catpuccin_Latte/theme.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Latte palette](https://github.com/catppuccin/catppuccin).
 
-![Catpuccin Latte](screenshots/CatpuccinLatte.png)
+![Catpuccin Latte](themes/Catpuccin_Latte/screenshots/1.png)
 
-[Catpuccin Frappe](./themes/Catpuccin_Frappe.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Frappe palette](https://github.com/catppuccin/catppuccin).
+[Catpuccin Frappe](./themes/Catpuccin_Frappe/theme.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Frappe palette](https://github.com/catppuccin/catppuccin).
 
-![Catpuccin Frappe](screenshots/CatpuccinFrappe.png)
+![Catpuccin Frappe](themes/Catpuccin_Frappe/screenshots/1.png)
 
-[Catpuccin Macchiato](./themes/Catpuccin_Macchiato.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Macchiato palette](https://github.com/catppuccin/catppuccin).
+[Catpuccin Macchiato](./themes/Catpuccin_Macchiato/theme.json) from [@eljoth](https://github.com/eljoth) based on the [Catpuccin Macchiato palette](https://github.com/catppuccin/catppuccin).
 
-![Catpuccin Macchiato](screenshots/CatpuccinMacchiato.png)
+![Catpuccin Macchiato](themes/Catpuccin_Macchiato/screenshots/1.png)
 
 [One Dark](https://github.com/one-dark)
 
-![OneDark](screenshots/OneDark.png)
+![OneDark](themes/OneDark/screenshots/1.png)
 
-[TokyoNight](./themes/TokyoNight.json) from [tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme)
+[TokyoNight](./themes/TokyoNight/theme.json) from [tokyo-night-vscode-theme](https://github.com/tokyo-night/tokyo-night-vscode-theme)
 
-[TokyoNight](./themes/TokyoNight.json)
-![TokyoNight](screenshots/TokyoNight.png)
+[TokyoNight](./themes/TokyoNight/theme.json)
+![TokyoNight](themes/TokyoNight/screenshots/1.png)
 
-[TokyoNight Storm](./themes/TokyoNight_Storm.json)
-![TokyoNight Storm](screenshots/TokyoNight_storm.png)
+[TokyoNight Storm](./themes/TokyoNight_Storm/theme.json)
+![TokyoNight Storm](themes/TokyoNight_Storm/screenshots/1.png)
 
-[TokyoNight Light](./themes/TokyoNight_Light.json)
-![TokyoNight_Light](screenshots/TokyoNight_light.png)
+[TokyoNight Light](./themes/TokyoNight_Light/theme.json)
+![TokyoNight_Light](themes/TokyoNight_Light/screenshots/1.png)
 
-[Ayu Dark](./themes/AyuDark.json) from [@Hectoralvf](https://codeberg.org/hectoralvf) based on [VS Code Ayu](https://github.com/ayu-theme/vscode-ayu).
-![Ayu Dark](screenshots/AyuDark.png)
+[Ayu Dark](./themes/AyuDark/theme.json) from [@Hectoralvf](https://codeberg.org/hectoralvf) based on [VS Code Ayu](https://github.com/ayu-theme/vscode-ayu).
+![Ayu Dark](themes/AyuDark/screenshots/1.png)
 
-[Trae Theme](./themes/TraeTheme.json) from [@ryan-sdjr](https://github.com/ryan-sdjr) based on [Trae IDE](https://www.trae.ai/).
-![Trae Theme](screenshots/TraeTheme.png)
+[Trae Theme](./themes/TraeTheme/theme.json) from [@ryan-sdjr](https://github.com/ryan-sdjr) based on [Trae IDE](https://www.trae.ai/).
+![Trae Theme](themes/TraeTheme/screenshots/1.png)

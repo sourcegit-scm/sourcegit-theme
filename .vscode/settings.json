@@ -3,7 +3,7 @@
         {
             "url": "./schema.json",
             "fileMatch": [
-                "themes/*.json"
+                "themes/*/*.json"
             ]
         }
     ],
